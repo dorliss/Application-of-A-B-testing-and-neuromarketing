@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 data/
 output/
+data/UEyes_dataset.zip
+*.zip # на всякий случай игнорировать все zip
+*.DS_Store # системные файлы Mac
+data/UEyes_dataset.zip
+*.zip # на всякий случай игнорировать все zip
+*.DS_Store # системные файлы Mac
